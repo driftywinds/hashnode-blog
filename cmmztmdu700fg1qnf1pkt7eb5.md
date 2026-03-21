@@ -101,3 +101,28 @@ As of March 2026, the hypervisor drivers released by the team from the Mkdev dis
 > Our LSTAR hook will not be mapped into the memory space in user mode page tables with the mitigation active, which will cause a page fault upon execution of a SYSCALL instruction resulting in a UNEXPECTED\_KERNEL\_MODE\_TRAP bug check (BSOD). To prevent this, our driver will not load if this mitigation is active and will return STATUS\_HV\_FEATURE\_UNAVAILABLE.
 
 The script included with the releases handles this.
+
+### **Hypervisor cracks - best practices and release requirements**
+
+This part describes how to minimize risks while using hypervisor cracks.  
+  
+**Before disabling security features and running the crack:**
+
+*   **Malware-free**: Check your system with one or multiple reputable, portable AV scanners, have a closer look at running processes in Task Manager, do not browse filesharing sites without a good ad blocker like uBlock Origin.
+    
+*   **Trusted source**: Verify that all files included with the crack come from a trusted source,
+    
+*   **File verification**: Verify file checksums that you obtained from a different, trusted source, if available.
+    
+*   **The power of open source**: Even better than checksums - compile the included source code yourself, if you know how to. Compare the source code with the original projects on Github that the crack hypervisors are based on to review the differences.
+    
+*   **Reviewed and approved methods only**: For disabling virtualized security and the Windows hypervisor, use open source scripts from approved releases posted to this forum.
+    
+*   **Networking**: Disconnect the PC from all networks, preferably outside of the OS, e.g. by unplugging the cable.
+    
+*   **Minimize exposure**: **IMPORTANT.** Revert the changes to Windows security and reboot your PC after you are done playing the game.
+    
+*   **Stay skeptical**: Prefer crack releases that do not instruct you to run closed source binaries with admin privileges.
+    
+
+Advanced users may want to consider running hypervisor cracks in a virtual machine (that supports nested virtualization) with GPU passthrough, such as KVM on Linux or Hyper-V, or a dedicated computer without personal data on it. This has a performance penalty though.
