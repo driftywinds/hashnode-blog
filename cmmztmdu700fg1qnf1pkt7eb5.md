@@ -8,7 +8,7 @@ slug: hypervisor-cracks-and-windows-security
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💣</div>
-<div data-node-type="callout-text">I believe everyone should be aware of these new era of bypasses for Denuvo and their pros and cons, so I am replicating the forum post here. You can find the original thread <a target="_self" rel="noopener noreferrer nofollow" class="text-primary underline underline-offset-2 hover:text-primary/80 cursor-pointer" href="https://cs.rin.ru/forum/viewtopic.php?t=156407" style="pointer-events: none;">here</a>.</div>
+<div data-node-type="callout-text">I believe everyone should be aware of these new era of bypasses for Denuvo and their pros and cons, so I am replicating the forum posts here. You can find the original thread <a target="_self" rel="noopener noreferrer nofollow" class="text-primary underline underline-offset-2 hover:text-primary/80 cursor-pointer" href="https://cs.rin.ru/forum/viewtopic.php?t=156407" style="pointer-events: none;">here</a> and <a target="_blank" rel="noopener noreferrer nofollow" class="text-primary underline underline-offset-2 hover:text-primary/80 cursor-pointer" href="https://cs.rin.ru/forum/viewtopic.php?t=156419" style="pointer-events: none;">here</a>.</div>
 </div>
 
 ### **Related topics**
