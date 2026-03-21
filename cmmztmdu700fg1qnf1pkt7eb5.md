@@ -8,7 +8,7 @@ slug: hypervisor-cracks-and-windows-security
 
 I believe everyone should be aware of these new era of bypasses for Denuvo, so I am replicating the forum post here. You can find the original thread [here](https://cs.rin.ru/forum/viewtopic.php?t=156407).
 
-**Related topics**
+### **Related topics**
 
 *   **EDUCATION:** (This topic) *\- Basics to help you understand security implications so that you can decide if you want to use hypervisor cracks.*  
     **INFO:** [Hypervisor cracks - best practices and release requirements](https://cs.rin.ru/forum/viewtopic.php?t=156419) *\- How to use hypervisor cracks responsibly and quality requirements for approved crack releases.*  
@@ -31,14 +31,14 @@ This is a high-level, educational guide on
 *   and the practical impact of disabling all that Windows security.
     
 
-**What is a hypervisor?**
+### **What is a hypervisor?**
 
 In the context that is relevant to us here, a [hypervisor](https://en.wikipedia.org/wiki/Hypervisor) is a software that allows multiple operating systems to run on the same computer, by dividing hardware resources into so-called [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine) (VMs). Software like VirtualBox, VMWare or Hyper-V can be installed on your system like normal programs and you can use them to create virtual machines in which you install different operating systems as "guests", strongly isolated from the "host" OS and each other.  
 It's intuitively clear that putting an OS into a virtual machine, with it's own virtual CPU cores, reserved memory and no direct access to the hardware firmware or your personal files can be a very strong protection against malicious software running inside the VM.
 
 A bare-metal hypervisor can go one step further: It does not run as an application in your OS, but runs directly on the hardware, so that even your main OS accesses hardware resources through the hypervisor. It is [assisted by virtualization features of your hardware](https://en.wikipedia.org/wiki/Virtualization#Hardware_virtualization), such as SVM/AMD-V and Intel VT-x, to make this more efficient and allow your OS to load a hypervisor on boot that takes over hardware resource management from the OS. This hypervisor is then able to run other OSes, specialized security software or even another hypervisor completely isolated from even the main OS that you booted into.
 
-**Windows virtualization-based security components**
+### **Windows virtualization-based security components**
 
 On modern systems with Secure Boot, TPM 2.0 and hardware-assisted virtualization capabilities, Windows 10 and 11 enable, mostly\* by default, various security solutions via [Virtualization-based Security (VBS)](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-vbs). VBS is an umbrella term for using a bare-metal hypervisor, the Windows hypervisor, to create isolated virtual spaces that are safe from even a fully compromised OS, in which these security components run and monitor the OS or store confidential information.
 
@@ -60,7 +60,7 @@ The following Windows components are such security solutions:
 
 A boot option that prevents Hyper-V from loading the hypervisor also needs to be added.\*\*
 
-**Modifying system behavior with a bare-metal hypervisor**
+### **Modifying system behavior with a bare-metal hypervisor**
 
 A bare-metal hypervisor controls all access of the OS to the CPU, memory and all other hardware, which means the hardware environment could be spoofed and OS system operations could be manipulated by it. This is a great power to have against a copyright protection that can defend itself against many known techniques from other software running within the same OS, such as debuggers, emulators or memory patchers. Essentially, the hypervisor crack method includes a Windows kernel driver that inserts itself as a very simple hypervisor, whose main job is to fool Denuvo checks.
 
@@ -77,7 +77,8 @@ So even "legitimate" software for hosting virtual machines that does not aim to 
 
 **This means that we have no choice but to get rid of the Windows hypervisor and with it, all those security components.**
 
-**I want to play that new Denuvo-protected game, is it safe to disable all this and use a hypervisor crack?**  
+### **I want to play that new Denuvo-protected game, is it safe to disable all this and use a hypervisor crack?**
+
 *There is no simple answer. This is just my personal take as someone with 10 years of experience in security-focused system administration and only a casual interest in gaming.*
 
 It's true that the most common threats are info stealer malware from fake download buttons, ransomware that encrypts your files or joining a DDoS botnet. I suppose such malware is usually not interested in higher privilege escalation or hardware sabotage, if it can already access what it needs. It's also true that the best protection against such malware is a good ad blocker, staying on trusted sites and user education.  
