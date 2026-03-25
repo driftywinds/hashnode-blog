@@ -1,5 +1,5 @@
 ---
-title: "SWORN v1.1.2.0.1172 (Build 21651897) (online fixed) [drifty repack]"
+title: "SWORN v1.2.0.0.1220 (Build 22481812) (online fixed) [drifty repack]"
 datePublished: 2025-03-02T18:45:47.906Z
 cuid: cm7rzeqyq000009kzdll80nzr
 slug: sworn-drifty-repack
@@ -9,10 +9,10 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740940480508/41574c2
 
 Nothing re-encoded, nothing compressed. This is a Steam install cracked and packed into a 7zip file.
 
-Download Size: 2.32 GB
+Download Size: 2.40 GB
 
-Unpacked Size: 5.34 GB
+Unpacked Size: 5.54 GB
 
 Have Steam open in the background and click on "SWORN.exe" to play.
 
-Links: - [https://bin.003274.xyz/?1bffaf744d34e549#HEpwcNs6a5B9V6yyNEBdQfvUw3GqMSmYAz1uyqEPVig1](https://bin.003274.xyz/?1bffaf744d34e549#HEpwcNs6a5B9V6yyNEBdQfvUw3GqMSmYAz1uyqEPVig1)
+Links: - [https://bin.003274.xyz/?2817834fd3f44a94#Ao29GBwpzR8yB3kuqsnRpWvYzm7zse1fE9Kt2oWdHrRP](https://bin.003274.xyz/?2817834fd3f44a94#Ao29GBwpzR8yB3kuqsnRpWvYzm7zse1fE9Kt2oWdHrRP)
