@@ -1,5 +1,5 @@
 ---
-title: "Windblown v0.8.0.12 f46f8701 (Build 21336831) (online fixed) [drifty repack]"
+title: "Windblown v0.9.0.12 790fe41e (Build 22503315) CSF [drifty repack]"
 datePublished: 2025-03-07T06:05:30.278Z
 cuid: cm7ydg9id000g09i52jv15u0e
 slug: windblown-drifty-repack
@@ -7,12 +7,12 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741327458509/9cd3ed5
 
 ---
 
-Nothing re-encoded, nothing compressed. This is a Steam install cracked and packed into a 7zip file.
+Nothing re-encoded. This is a Steam install packed into a 7zip file.
 
-Download Size: 2.34 GB
+Download Size: 2.42 GB
 
-Unpacked Size: 3.33 GB
+Unpacked Size: 3.42 GB
 
-Have Steam open in the background and click on "Windblown.exe" to play.
+Crack the game, have Steam open in the background and click on "Windblown.exe" to play.
 
-Links: - [https://bin.003274.xyz/?ad48d8c165f4ad82#E1VaS5fPfJgNXA3kZzKw1V31gndA4KabQautYwMzYqc8](https://bin.003274.xyz/?ad48d8c165f4ad82#E1VaS5fPfJgNXA3kZzKw1V31gndA4KabQautYwMzYqc8)
+Links: - [https://bin.003274.xyz/?afa3e3edfbc67f66#5JbYggkTy8ekaUUnVNS5M2fuCNxy3QENPNKLNzXvD84i](https://bin.003274.xyz/?afa3e3edfbc67f66#5JbYggkTy8ekaUUnVNS5M2fuCNxy3QENPNKLNzXvD84i)
