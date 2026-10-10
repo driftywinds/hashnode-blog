@@ -1,5 +1,5 @@
 ---
-title: "BOMBANANA! v1.0.1 (Build 25104818) (online fixed) [drifty repack]"
+title: "BOMBANANA! v1.1.0 (Build 25825545) (online fixed) [drifty repack]"
 datePublished: 2026-09-03T05:22:40.869Z
 cuid: cmtl2wg9e00000agmanvad31t
 slug: bombanana-drifty-repack
@@ -9,10 +9,10 @@ cover: https://cdn.hashnode.com/uploads/covers/65a52c03437cae73bc3b6c71/7b8021f3
 
 Nothing re-encoded, nothing compressed. This is a Steam install cracked and packed into a 7zip file.
 
-Download Size: 189 MB
+Download Size: 258 MB
 
-Unpacked Size: 1.26 GB
+Unpacked Size: 1.68 GB
 
 Have Steam open in the background and click on "BOMBANANA.exe" to play.
 
-Links: - [https://bin.003274.xyz/?62da9939980ad837#65r6D9P7iDWwdbhgHVfZty56HMFfBuy64vYowNRat6oq](https://bin.003274.xyz/?62da9939980ad837#65r6D9P7iDWwdbhgHVfZty56HMFfBuy64vYowNRat6oq)
+Links: - [https://bin.003274.xyz/?587c92fc906b040b#7zKWRM1sLinu5NjjBRwnYrqRWqC6hRnSbEeEeMJJbMer](https://bin.003274.xyz/?587c92fc906b040b#7zKWRM1sLinu5NjjBRwnYrqRWqC6hRnSbEeEeMJJbMer)
