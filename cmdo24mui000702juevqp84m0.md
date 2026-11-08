@@ -13,6 +13,6 @@ Download Size: 198 MB
 
 Unpacked Size: 711 MB
 
-Click on "FUMES.exe" in the game folder to play.
+Have Steam open in the background and launch "FUMES.exe" in the game folder to play the game.
 
 Links: - <https://bin.003274.xyz/?b4b22be029b3fdb7#o51oKJyvt3y3RL8upBsJn9HVnm5FaQDaBGjyocWJUmt>
